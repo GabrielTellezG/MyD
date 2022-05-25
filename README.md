@@ -1,4 +1,5 @@
 <h1 align="center">🔥 Hi Everyone, thank you for visit me 🔥</h1>
+<h2 align="left">Estudiante de Ingeniería en Informática en el Instituto Politécnico Nacional</h2>
 
 <h3 align="left">Mis Redes:</h3>
 
