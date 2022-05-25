@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Hi Everyone, thank you for visit me 🔥</h1>
-<h2 align="left"><img align="center" src="https://github.com/GabrielTellezG/MyD/blob/main/LogoUPIICSA.png" alt="MyD" height="50" width="50" />  Estudiante de Ingeniería en Informática en el Instituto Politécnico Nacional  <img align="center" src="https://github.com/GabrielTellezG/MyD/blob/main/LogoIPN.png" alt="MyD" height="50" width="50" /></h2>
+<h2 align="center"><img align="center" src="https://github.com/GabrielTellezG/MyD/blob/main/LogoUPIICSA.png" alt="MyD" height="50" width="50" />  Estudiante de Ingeniería en Informática en el Instituto Politécnico Nacional  <img align="center" src="https://github.com/GabrielTellezG/MyD/blob/main/LogoIPN.png" alt="MyD" height="50" width="50" /></h2>
 
 <h3 align="left">Mis Redes:</h3>
 
